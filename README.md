@@ -1,4 +1,4 @@
-[![MasterHead](your image link)](your GitHub link)
+[![MasterHead](https://github.com/ashioyajotham/ashioyajotham/blob/main/InShot_20200910_214029893.jpg)](https://linktr.ee/ashioyajotham)
 - 👋 Hi, I’m @ashioyajotham
 - 👀 I’m interested in ...data science
 - 🌱 I’m currently learning ...data science
