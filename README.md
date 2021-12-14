@@ -1,4 +1,5 @@
-[![MasterHead](https://github.com/ashioyajotham/ashioyajotham/blob/main/InShot_20200910_214029893.jpg)](https://linktr.ee/ashioyajotham)
+ <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/W8lHsRZ8CpCy7nGbgx/giphy.gif">
+
 - 👋 Hi, I’m @ashioyajotham
 - 👀 I’m interested in ...data science
 - 🌱 I’m currently learning ...data science
