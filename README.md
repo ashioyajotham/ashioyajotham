@@ -17,8 +17,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://github.com/ashioyajotham/ashioyajotham/blob/main/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe829553.8964224815219374065349.png (LinkedIn icon without padding)
+[1.2]: https://github.com/ashioyajotham/ashioyajotham/blob/main/icons8-twitter-24.png
+[2.2]: http://github.com/ashioyajotham/ashioyajotham/blob/main/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe829553.8964224815219374065349.png (LinkedIn icon without padding
 
 <!-- Links to your social media accounts -->
 
