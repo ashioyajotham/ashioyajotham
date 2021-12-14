@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/ashioyajotham/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
 - 👋 Hi, I’m @ashioyajotham
 - 👀 I’m interested in ...data science
 - 🌱 I’m currently learning ...data science
