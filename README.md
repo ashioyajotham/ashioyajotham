@@ -1,4 +1,4 @@
- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/W8lHsRZ8CpCy7nGbgx/giphy.gif">
+ <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/9erbtxXppJp081KrCA/giphy.gif">
 
 - 👋 Hi, I’m @ashioyajotham
 - 👀 I’m interested in ...data science
