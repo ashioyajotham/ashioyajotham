@@ -1,5 +1,4 @@
-![LinkedIn](https://user-images.githubusercontent.com/71454095/146043545-d31d30dc-9349-41b0-9ab0-6a82d6abb917.png)
-[![Header](https://raw.githubusercontent.com/ashioyajotham/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/ashioyajotham/<OWNER>/<OWNER>/https://github.com/ashioyajotham/ashioyajotham/blob/main/InShot_20200910_214029893.jpg "Header")](https://some-url.dev/)
 
 - 👋 Hi, I’m @ashioyajotham
 - 👀 I’m interested in ...data science
