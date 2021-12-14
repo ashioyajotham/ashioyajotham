@@ -8,5 +8,4 @@
 ashioyajotham/ashioyajotham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![ashioyajotham
-header](https://github.com/ashioyajotham/ashioyajotham/blob/master/assets/github-header.png)](https://public.tableau.com/app/profile/ashioyajotham)
+![Tableau](https://user-images.githubusercontent.com/71454095/145991013-1f1fde19-19f3-4809-9b17-2e3d37a270e3.png)(https://public.tableau.com/app/profile/ashioyajotham)
