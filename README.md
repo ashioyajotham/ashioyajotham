@@ -9,6 +9,7 @@ ashioyajotham/ashioyajotham is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 ![ashioyajotham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashioyajotham&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashioyajotham)](https://github.com/ashioyajotham/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashioyajotham&repo=github-readme-stats)](https://github.com/ashioyajotham/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashioyajotham&layout=compact)](https://github.com/ashioyajotham/github-readme-stats)
+
+
 
