@@ -1,3 +1,4 @@
+[![MasterHead](your image link)](your GitHub link)
 - 👋 Hi, I’m @ashioyajotham
 - 👀 I’m interested in ...data science
 - 🌱 I’m currently learning ...data science
