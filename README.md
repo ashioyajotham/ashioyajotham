@@ -1,5 +1,3 @@
-[![Header](https://raw.githubusercontent.com/ashioyajotham/<OWNER>/<OWNER>/https://github.com/ashioyajotham/ashioyajotham/blob/main/InShot_20200910_214029893.jpg "Header")](https://some-url.dev/)
-
 - 👋 Hi, I’m @ashioyajotham
 - 👀 I’m interested in ...data science
 - 🌱 I’m currently learning ...data science
@@ -20,7 +18,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://user-images.githubusercontent.com/71454095/146043545-d31d30dc-9349-41b0-9ab0-6a82d6abb917.png (LinkedIn icon without padding)
+[2.2]:  (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
