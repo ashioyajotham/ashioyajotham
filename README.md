@@ -1,4 +1,4 @@
- <img align="centre" alt="Coding" width="400" src="https://github.com/ashioyajotham/ashioyajotham/blob/main/InShot_20211215_003437810.jpg">
+ <img align="right" alt="Coding" width="400" src="https://github.com/ashioyajotham/ashioyajotham/blob/main/InShot_20211215_003437810.jpg">
 
 - 👋 Hi, I’m @ashioyajotham
 - 👀 I’m interested in ...data science
