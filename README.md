@@ -1,5 +1,3 @@
- [<img align="right" alt="Coding" width="400" src="https://github.com/ashioyajotham/ashioyajotham/blob/main/InShot_20211215_003437810.jpg">](https://linktr.ee/ashioyajotham)
-
 - 👋 Hi, I’m @ashioyajotham
 - 👀 I’m interested in ...data science
 - 🌱 I’m currently learning ...BSc. Telecomunications
