@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashioyajotham
 - 👀 I’m interested in ...data science
 - 🌱 I’m currently learning ...BSc. Telecomunications
-- 💞️ I’m looking to collaborate on ...Python, Cyber Sec
+- 💞️ I’m looking to collaborate on ...Python, IoT, Open Source
 - 📫 How to reach me ...linktr.ee/ashioyajotham
 
 <!---
