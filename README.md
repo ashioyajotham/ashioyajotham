@@ -8,7 +8,7 @@
 ashioyajotham/ashioyajotham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ashioyajotham/Streamlit/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ashioyajotham-streamlit-loanpredictionapp-xwoig2.streamlit.app/)
 ![ashioyajotham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashioyajotham&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashioyajotham&layout=compact&theme=tokyonight)](https://github.com/ashioyajotham/github-readme-stats)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
