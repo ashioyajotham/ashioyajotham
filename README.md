@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Victor Ashioya
 - 👀 I’m interested in ...data science
 - 🌱 I’m currently learning ...BSc. Telecomunications
-- 💞️ I’m looking to collaborate on ...Python, Responsible AI, Open Source, Cloud
+- 💞️ I’m looking to collaborate on ...machine learning
 
 <!---
 ashioyajotham/ashioyajotham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
