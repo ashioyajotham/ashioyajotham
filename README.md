@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Victor Ashioya
 - 👀 I’m interested in ...data science
-- 🌱 I’m currently learning ...BSc. Telecomunications
+- 🌱 I’m currently learning ...AI Safety
 - 💞️ I’m looking to collaborate on ...machine learning
 
 <!---
