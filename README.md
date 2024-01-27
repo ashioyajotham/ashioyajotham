@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Victor Ashioya
 - 👀 I’m interested in ...data science
 - 🌱 I’m currently learning ...AI Safety [red teaming]
-- 💞️ I’m looking to collaborate on ...machine learning
+- 💞️ I’m looking to collaborate on ...machine learning research
 
 <!---
 ashioyajotham/ashioyajotham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
