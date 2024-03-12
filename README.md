@@ -15,4 +15,3 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashioyajotham&theme=tokyonight)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=ashioyajotham&color=green&hidden=True&style=flat-square&label=PROFILE+VIEWS)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tky0vrvb3151zocqr034iz6p2&unique={true|1|on|yes}&count=1&width=600&unique=true)
