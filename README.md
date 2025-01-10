@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/github/stars/ashioyajotham?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars">
 </p>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2FA2D5&random=false&width=435&lines=ML+Research+%7C+Data+Science+%7C+AI;Building+Intelligent+Systems;Python+%7C+PyTorch+%7C+TensorFlow" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2FA2D5&random=false&width=435&lines=Alignment%7CMech+interp%7CReasoning;Building+Intelligent+Systems;" alt="Typing SVG" />
 </div>
 
 ### 📈 Contribution Graph
