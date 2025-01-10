@@ -29,11 +29,6 @@
 #### Featured Deployments
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ashioyajotham-quant-goldman-sachs-forecastingapp-yxn34x.streamlit.app/)
 
-### 🌐 Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ashioyajotham_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashioyajotham)
-[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?logo=github&logoColor=white)](https://ashioyajotham.github.io)
-
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
