@@ -2,17 +2,16 @@
 <h3 align="center">ML Researcher | Data Scientist </h3>
 
 ### 🔭 Currently Working On
-- Building AI Agents for Biblical Research
+- Building AI Agents for Bible Study, research and coding
+- Algorithmic Trading bots
 - ML Systems Design & Implementation
 - Data Science Projects
 
 ### 🌱 Research Interests
-- Foundation Models
-- Confabulations ("Hallucinations")
+- Foundation Models (reasoning, confabulations ["hallucinations"], red-teaming, alignment)
+- Video generation / models that capture the physics of the world
 - MLOps & System Design
-- Reasoning
 - AI Agents & Multi-Agent Systems
-- Reinforcement Learning
 
 ### 🛠️ Skills & Technologies
 <p align="left">
