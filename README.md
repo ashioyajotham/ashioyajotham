@@ -7,9 +7,12 @@
 - Data Science Projects
 
 ### 🌱 Research Interests
-- Large Language Models
-- AI Agents & Multi-Agent Systems
+- Foundation Models
+- Confabulations ("Hallucinations")
 - MLOps & System Design
+- Reasoning
+- AI Agents & Multi-Agent Systems
+- Reinforcement Learning
 
 ### 🛠️ Skills & Technologies
 <p align="left">
