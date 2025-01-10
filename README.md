@@ -33,9 +33,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashioyajotham)
 [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?logo=github&logoColor=white)](https://ashioyajotham.github.io)
 
-### 📝 Latest Blog Posts
+### 📝 Latest Blog Posts from Substack
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+▶ [Read more on Substack](https://ashioyajotham.substack.com)
 
 ### 🐍 Contribution Graph
 ![Snake animation](https://github.com/ashioyajotham/ashioyajotham/blob/output/github-contribution-grid-snake.svg)
