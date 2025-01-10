@@ -1,7 +1,7 @@
 name: Latest blog posts workflow
 on:
   schedule:
-    - cron: '0 */12 * * *'  # Runs every 12 hours
+    - cron: '0 */12 * * *'
   workflow_dispatch:
 
 jobs:
@@ -12,9 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://ashioyajotham.github.io/feed.xml, https://medium.com/feed/@ashioyajotham"
+          feed_list: "https://ashioyajotham.substack.com/feed"
           max_post_count: 5
-          template: "- 📝 [$title]($url) - *$date*"
-          date_format: "mmm d, yyyy"
           readme_path: "./README.md"
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          template: "- 📝 [$title]($url) \n  <br/> *$date*"
