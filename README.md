@@ -29,11 +29,6 @@
 #### Featured Deployments
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ashioyajotham-quant-goldman-sachs-forecastingapp-yxn34x.streamlit.app/)
 
-### 📊 GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashioyajotham&show_icons=true&locale=en&theme=radical" alt="ashioyajotham" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashioyajotham&theme=radical" alt="ashioyajotham" /></p>
-
 ### 🌐 Connect with Me
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ashioyajotham_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashioyajotham)
@@ -54,5 +49,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2FA2D5&random=false&width=435&lines=Alignment%7CMech+interp%7CReasoning;Building+Intelligent+Systems;" alt="Typing SVG" />
 </div>
 
-### 📈 Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashioyajotham&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 📈 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/ashioyajotham">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashioyajotham&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashioyajotham&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=ashioyajotham&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  </a>
+</p>
+
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
+   <a href="https://github.com/ashioyajotham"><img alt="Ashioya's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ashioyajotham&custom_title=Contribution%20Graph&theme=tokyo-night&area=true&hide_border=true" /></a>
+  <br/>
+</details>
