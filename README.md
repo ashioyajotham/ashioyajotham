@@ -39,9 +39,6 @@
 
 ▶ [Read more on Substack](https://ashioyajotham.substack.com)
 
-### 🐍 Contribution Graph
-![Snake animation](https://github.com/ashioyajotham/ashioyajotham/blob/output/github-contribution-grid-snake.svg)
-
 ---
 <p align="center">
   <img src="https://img.shields.io/github/followers/ashioyajotham?label=Follow&style=social" alt="GitHub followers">
