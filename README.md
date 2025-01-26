@@ -45,14 +45,6 @@
 </div>
 
 ### 📈 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/ashioyajotham">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashioyajotham&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashioyajotham&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-</p>
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=ashioyajotham&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
