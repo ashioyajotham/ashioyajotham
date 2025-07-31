@@ -8,10 +8,10 @@
 - Data Science Projects
 
 ### 🌱 Research Interests
-- Foundation Models (red-teaming, confabulations ["hallucinations"], reasoning, alignment)
+- Foundation Models (confabulations ["hallucinations"], reasoning, knowledge-encoding)
 - Video generation models (physical world modeling)
 - MLOps & System Design
-- AI Agents & Multi-Agent Systems
+- AI Safety (alignment, red-teaming) and formal verification
 
 ### 🛠️ Skills & Technologies
 <p align="left">
