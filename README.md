@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Jotham Ashioya</h1>
-<h3 align="center">ML Researcher | Data Scientist </h3>
-
 ### 🔭 Currently Working On
 - Building AI Agents for Bible Study, research and coding
 - Algorithmic Trading bots
