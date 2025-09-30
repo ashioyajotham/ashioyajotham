@@ -1,5 +1,5 @@
 ### 🔭 Currently Working On
-- Building AI Agents for Bible Study, research and coding
+- Building AI Agents for research, information synthesis and coding
 - Algorithmic Trading bots
 - ML Systems Design & Implementation
 - Data Science Projects
