@@ -5,10 +5,10 @@
 - Data Science Projects
 
 ### 🌱 Research Interests
+- MLOps & System Design
+- AI Safety (red-teaming, mech interp and alignment)
 - Foundation Models (confabulations ["hallucinations"], reasoning, knowledge-encoding)
 - Video generation models (physical world modeling)
-- MLOps & System Design
-- AI Safety (alignment, red-teaming) and formal verification
 
 ### 🛠️ Skills & Technologies
 <p align="left">
