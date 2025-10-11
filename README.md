@@ -10,22 +10,6 @@
 - Foundation Models (confabulations ["hallucinations"], reasoning, knowledge-encoding)
 - Video generation models (physical world modeling)
 
-### 🛠️ Skills & Technologies
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-</p>
-
-#### Web Development & Deployment
-![Streamlit](https://img.shields.io/badge/Streamlit-★★★★☆-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-★★★★☆-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-★★★★☆-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-★★★★☆-2496ED?style=flat&logo=docker&logoColor=white)
-
-#### Featured Deployments
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ashioyajotham-quant-goldman-sachs-forecastingapp-yxn34x.streamlit.app/)
-
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
