@@ -8,7 +8,7 @@
 - MLOps & System Design
 - AI Safety (red-teaming, mech interp and alignment)
 - Foundation Models (confabulations ["hallucinations"], reasoning, knowledge-encoding)
-- Video generation models (physical world modeling)
+- World models (physical world modeling)
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
