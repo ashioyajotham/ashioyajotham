@@ -2,7 +2,7 @@
 - Building Assistants for research, information synthesis and coding
 - Algorithmic Trading bots
 - ML Systems Design & Implementation
-- Data Science Projects
+- Data Science 
 
 ### 🌱 Research Interests
 - MLOps & System Design
