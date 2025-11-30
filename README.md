@@ -1,6 +1,6 @@
 ### 🔭 Currently Working On
 - Building Assistants for research, information synthesis and coding
-- Algorithmic Trading bots
+- Algorithmic Trading
 - ML Systems Design & Implementation
 - Data Science 
 
