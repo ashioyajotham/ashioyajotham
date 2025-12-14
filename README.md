@@ -1,5 +1,5 @@
 ### 🔭 Currently Working On
-- Building assistants for research, information synthesis and coding
+- Building assistants for information synthesis and coding
 - Quant/Algorithmic trading
 - ML Systems Design & Implementation
 - Data Science 
