@@ -1,7 +1,7 @@
 ### 🔭 Currently Working On
 - Building assistants for information synthesis and coding
 - Quant/Algorithmic trading
-- ML Systems Design
+- ML Systems design
 - Data Science 
 
 ### 🌱 Research Interests
