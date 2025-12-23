@@ -1,6 +1,6 @@
 ### 🔭 Currently Working On
 - Building assistants for information synthesis and coding
-- Quant/Algorithmic trading
+- Quant (Algorithmic trading)
 - ML Systems design
 - Data Science 
 
