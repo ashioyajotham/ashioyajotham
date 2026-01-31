@@ -2,7 +2,7 @@
 - Building assistants for information synthesis and coding
 - Quant (Algorithmic trading)
 - ML Systems design
-- Data Science 
+- Data science 
 
 ### 🌱 Research Interests
 - MLOps & System Design
