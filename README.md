@@ -1,5 +1,6 @@
 ### 🔭 Currently Working On
 - Building assistants for information synthesis and coding
+- Mech interp
 - Quant
 - ML systems design
 - Data science 
