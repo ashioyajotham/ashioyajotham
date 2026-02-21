@@ -7,7 +7,7 @@
 
 ### 🌱 Research Interests
 - AI Safety (red-teaming, control, mech interp and alignment)
-- Foundation Models (confabulations ["hallucinations"], scaling laws, knowledge-encoding)
+- Foundation Models (confabulations ["hallucinations"], scaling laws, RL, knowledge-encoding)
 - World models (video generation models, physical/embodied AI, spatial intelligence etc)
 
 ### 📝 Latest Blog Posts
