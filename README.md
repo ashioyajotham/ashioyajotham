@@ -1,6 +1,6 @@
 ### 🔭 Currently Working On
 - Building assistants for information synthesis and coding
-- Mechanistic interpretability
+- Technical AI Safety
 - Quant
 - ML systems design
 - Data science 
