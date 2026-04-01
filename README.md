@@ -25,10 +25,6 @@
 
 ### 📈 GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashioyajotham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashioyajotham&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide_title=true" alt="Top Languages" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=ashioyajotham&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
