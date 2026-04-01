@@ -11,8 +11,6 @@
 - World models (video generation models, physical/embodied AI, spatial intelligence etc)
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ▶ [Read more on Substack](https://ashioyajotham.substack.com)
 
