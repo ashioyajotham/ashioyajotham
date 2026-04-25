@@ -2,7 +2,7 @@
 - Building assistants for information synthesis and coding
 - Technical AI Safety
 - Quant
-- ML systems design
+- Machine learning systems design
 - Data science 
 
 ### 🌱 Research Interests
