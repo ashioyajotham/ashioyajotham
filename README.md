@@ -6,7 +6,7 @@
 - Data science 
 
 ### 🌱 Research Interests
-- AI Safety (red-teaming, AI control, mech interp and alignment)
+- AI Safety (red-teaming, AI control, mech interp and AI alignment)
 - Foundation Models (pretraining, post-training, confabulations ["hallucinations"], scaling laws)
 - World models (video generation models, physical AI, spatial intelligence etc)
 
