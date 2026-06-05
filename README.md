@@ -3,7 +3,6 @@
 - Technical AI Safety
 - Quant
 - Machine learning systems design
-- Data science 
 
 ### 🌱 Research Interests
 - AI Safety (red-teaming aka jailbreaking, AI control, mech interp and alignment)
