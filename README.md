@@ -1,7 +1,6 @@
 ### 🔭 Currently Working On
 - Building assistants for information understanding
 - Technical AI Safety
-- Quant
 - Machine learning systems design
 
 ### 🌱 Research Interests
