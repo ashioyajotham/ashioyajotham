@@ -1,7 +1,7 @@
 ### 🔭 Currently Working On
 - Building assistants for information understanding
 - Technical AI Safety
-- Machine learning systems design
+- ML systems design
 
 ### 🌱 Research Interests
 - AI Safety (red-teaming aka jailbreaking, AI control, mech interp and alignment)
