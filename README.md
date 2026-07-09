@@ -8,7 +8,7 @@
 - Foundation Models (pretraining, post-training, confabulations ["hallucinations"], scaling laws)
 - World models (physical AI, spatial intelligence etc)
 
-### 📝 Latest Blog Posts
+### 📝 Blog Posts
 
 ▶ [Read more on Substack](https://ashioyajotham.substack.com)
 
