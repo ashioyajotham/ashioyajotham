@@ -4,7 +4,7 @@
 - Machine learning systems design
 
 ### 🌱 Research Interests
-- AI Safety (red-teaming aka jailbreaking, AI control, mech interp and alignment)
+- AI Safety (red-teaming aka jailbreaking, AI control, mech interp and AI alignment)
 - Foundation Models (pretraining, post-training, confabulations ["hallucinations"], scaling laws)
 - World models (spatial intelligence)
 
