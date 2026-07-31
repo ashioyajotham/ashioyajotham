@@ -1,5 +1,5 @@
 ### 🔭 Currently Working On
-- Building assistants for information understanding
+- Building assistants for information understanding and national security infrastructure 
 - Technical AI Safety
 - Machine learning systems design
 
