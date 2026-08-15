@@ -1,5 +1,5 @@
 ### 🔭 Currently Working On
-- Building foundational health and national security infrastructure 
+- Building health tech and national security infrastructure 
 - Technical AI Safety
 - Machine learning systems design
 
