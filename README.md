@@ -1,7 +1,7 @@
 ### 🔭 Currently Working On
-- Building health tech and defense tech infrastructure
+- Building health and defense tech infrastructure
 - Technical AI Safety
-- Machine learning systems design
+- Machine Learning systems design
 
 ### 🌱 Research Interests
 - AI Safety (red-teaming aka jailbreaking, AI control, mech interp and AI alignment)
